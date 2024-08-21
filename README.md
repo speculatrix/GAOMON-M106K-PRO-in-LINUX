@@ -19,7 +19,7 @@ Bus 001 Device 028: ID 256c:006d M106k Pro digitising tablet
 A different variant of the tablet was seen with the 256c:006e by @speculatrix
 
 
-See the section at the end if you need to modify the usb.ids database if the device
+See the section at the end if you need to modify the usb.ids database if the device is unnamed, so all you see is the ID.
 
 
 ## Fully configure the system to use the tablet
